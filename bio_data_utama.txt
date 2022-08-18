@@ -4,3 +4,9 @@ Tempat, tangal lahir : Bandung, 19-Februari-2005
 Jenis Kelamin : LAKI LAKI
 Hobi : Traveling ,Reading ,Sport 
 
+Riwayat_pendidikan :
+TK_Bustanul Wildan
+SD_Lengkong_Besar
+SMP_Negeri_49_BANDUNG
+SMK_PI
+KAMPUS_ITB
